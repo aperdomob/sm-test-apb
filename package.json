@@ -3,11 +3,6 @@
   "version": "0.0.0-development",
   "description": "Semantic release test",
   "main": "index.js",
-  "dependencies": {
-    "install": "^0.13.0",
-    "npm": "^6.13.6",
-    "semantic-release-cli": "^5.2.3"
-  },
   "devDependencies": {
     "@semantic-release/git": "^8.0.0",
     "semantic-release": "^16.0.2"
