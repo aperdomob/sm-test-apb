@@ -9,6 +9,7 @@
     "semantic-release-cli": "^5.2.3"
   },
   "devDependencies": {
+    "@semantic-release/git": "^8.0.0",
     "semantic-release": "^16.0.2"
   },
   "scripts": {
