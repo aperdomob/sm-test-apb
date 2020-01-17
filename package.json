@@ -1,0 +1,28 @@
+{
+  "name": "semantic-release-2020-example",
+  "version": "0.0.0-development",
+  "description": "Semantic release test",
+  "main": "index.js",
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^6.13.6",
+    "semantic-release-cli": "^5.2.3"
+  },
+  "devDependencies": {
+    "semantic-release": "^16.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aperdomob/semantic-release-2020-example.git"
+  },
+  "author": "Alejandro Perdomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aperdomob/semantic-release-2020-example/issues"
+  },
+  "homepage": "https://github.com/aperdomob/semantic-release-2020-example#readme"
+}
