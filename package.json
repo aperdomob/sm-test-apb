@@ -12,7 +12,7 @@
     "semantic-release": "^16.0.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\"",
     "semantic-release": "semantic-release"
   },
   "repository": {
