@@ -9,7 +9,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "debug": "semantic-release --dry-run --debug"
   },
   "repository": {
     "type": "git",
